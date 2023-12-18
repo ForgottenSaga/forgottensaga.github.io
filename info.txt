@@ -1,7 +1,19 @@
  hugo server
 hugo --baseURL="http://forgottensaga.github.io/"
 
+上传github步骤：
+1. 在计算机上，将要上传到 GitHub 的文件移入在克隆仓库时创建的本地目录。
 git clone https://github.com/ForgottenSaga/forgottensaga.github.io.git
+2. 打开Git Bash。
+3. 将当前工作目录更改为您的本地仓库。
+cd forgottensaga.github.io
+4. 将要提交的文件暂存到本地仓库。
+git add .
+5. 提交暂存在本地仓库中的文件。
+git commit -m "new"
+6. 将本地存储库中的更改推送到GitHub.com。
+git push -u origin main
+
 
 git init
 git add README.md
