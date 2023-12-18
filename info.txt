@@ -1,0 +1,17 @@
+ hugo server
+hugo --baseURL="http://forgottensaga.github.io/"
+
+git clone https://github.com/ForgottenSaga/forgottensaga.github.io.git
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ForgottenSaga/forgottensaga.github.io.git
+git push -u origin main
+
+git add .
+git commit -m "new"
+git remote add origin https://github.com/ForgottenSaga/forgottensaga.github.io.git
+git branch -M main
+git push -u origin main
