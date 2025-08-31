@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | 周洋-个人主页</title>
+    <link>http://forgottensaga.github.io/publication-type/2/</link>
+      <atom:link href="http://forgottensaga.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Thu, 29 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://forgottensaga.github.io/media/icon_hubd28097366cd1a1d4d2bcae10b7ca823_21821_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>http://forgottensaga.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Learning-Based Kinematic Control of a Deployable Manipulator With Long Span and Low Stiffness</title>
+      <link>http://forgottensaga.github.io/publication/learnmanip/</link>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://forgottensaga.github.io/publication/learnmanip/</guid>
+      <description>&lt;script src=&#34;https://giscus.app/client.js&#34;
+        data-repo=&#34;ForgottenSaga/Giscus&#34;
+        data-repo-id=&#34;R_kgDOK6wiTQ&#34;
+        data-category=&#34;Announcements&#34;
+        data-category-id=&#34;DIC_kwDOK6wiTc4Cbz8u&#34;
+        data-mapping=&#34;pathname&#34;
+        data-strict=&#34;0&#34;
+        data-reactions-enabled=&#34;1&#34;
+        data-emit-metadata=&#34;0&#34;
+        data-input-position=&#34;bottom&#34;
+        data-theme=&#34;preferred_color_scheme&#34;
+        data-lang=&#34;zh-CN&#34;
+        crossorigin=&#34;anonymous&#34;
+        async&gt;
+&lt;/script&gt;</description>
+    </item>
+    
+    <item>
+      <title>3D-VDNet: Exploiting the vertical distribution characteristics of point clouds for 3D object detection and augmentation</title>
+      <link>http://forgottensaga.github.io/publication/3d-vdnet/</link>
+      <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://forgottensaga.github.io/publication/3d-vdnet/</guid>
+      <description>&lt;script src=&#34;https://giscus.app/client.js&#34;
+        data-repo=&#34;ForgottenSaga/Giscus&#34;
+        data-repo-id=&#34;R_kgDOK6wiTQ&#34;
+        data-category=&#34;Announcements&#34;
+        data-category-id=&#34;DIC_kwDOK6wiTc4Cbz8u&#34;
+        data-mapping=&#34;pathname&#34;
+        data-strict=&#34;0&#34;
+        data-reactions-enabled=&#34;1&#34;
+        data-emit-metadata=&#34;0&#34;
+        data-input-position=&#34;bottom&#34;
+        data-theme=&#34;preferred_color_scheme&#34;
+        data-lang=&#34;zh-CN&#34;
+        crossorigin=&#34;anonymous&#34;
+        async&gt;
+&lt;/script&gt;</description>
+    </item>
+    
+    <item>
+      <title>LEDet: localization estimation detector with data augmentation for ship detection based on unmanned surface vehicle</title>
+      <link>http://forgottensaga.github.io/publication/ledet/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://forgottensaga.github.io/publication/ledet/</guid>
+      <description>&lt;script src=&#34;https://giscus.app/client.js&#34;
+        data-repo=&#34;ForgottenSaga/Giscus&#34;
+        data-repo-id=&#34;R_kgDOK6wiTQ&#34;
+        data-category=&#34;Announcements&#34;
+        data-category-id=&#34;DIC_kwDOK6wiTc4Cbz8u&#34;
+        data-mapping=&#34;pathname&#34;
+        data-strict=&#34;0&#34;
+        data-reactions-enabled=&#34;1&#34;
+        data-emit-metadata=&#34;0&#34;
+        data-input-position=&#34;bottom&#34;
+        data-theme=&#34;preferred_color_scheme&#34;
+        data-lang=&#34;zh-CN&#34;
+        crossorigin=&#34;anonymous&#34;
+        async&gt;
+&lt;/script&gt;</description>
+    </item>
+    
+    <item>
+      <title>Theoretical model for variable helical angle of tensile armour wires in bent flexible pipes</title>
+      <link>http://forgottensaga.github.io/publication/theoreriser2/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://forgottensaga.github.io/publication/theoreriser2/</guid>
+      <description>&lt;script src=&#34;https://giscus.app/client.js&#34;
+        data-repo=&#34;ForgottenSaga/Giscus&#34;
+        data-repo-id=&#34;R_kgDOK6wiTQ&#34;
+        data-category=&#34;Announcements&#34;
+        data-category-id=&#34;DIC_kwDOK6wiTc4Cbz8u&#34;
+        data-mapping=&#34;pathname&#34;
+        data-strict=&#34;0&#34;
+        data-reactions-enabled=&#34;1&#34;
+        data-emit-metadata=&#34;0&#34;
+        data-input-position=&#34;bottom&#34;
+        data-theme=&#34;preferred_color_scheme&#34;
+        data-lang=&#34;zh-CN&#34;
+        crossorigin=&#34;anonymous&#34;
+        async&gt;
+&lt;/script&gt;</description>
+    </item>
+    
+    <item>
+      <title>Theoretical analysis of reinforcement layers in bonded flexible marine hose under internal pressure</title>
+      <link>http://forgottensaga.github.io/publication/theorehose/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://forgottensaga.github.io/publication/theorehose/</guid>
+      <description>&lt;script src=&#34;https://giscus.app/client.js&#34;
+        data-repo=&#34;ForgottenSaga/Giscus&#34;
+        data-repo-id=&#34;R_kgDOK6wiTQ&#34;
+        data-category=&#34;Announcements&#34;
+        data-category-id=&#34;DIC_kwDOK6wiTc4Cbz8u&#34;
+        data-mapping=&#34;pathname&#34;
+        data-strict=&#34;0&#34;
+        data-reactions-enabled=&#34;1&#34;
+        data-emit-metadata=&#34;0&#34;
+        data-input-position=&#34;bottom&#34;
+        data-theme=&#34;preferred_color_scheme&#34;
+        data-lang=&#34;zh-CN&#34;
+        crossorigin=&#34;anonymous&#34;
+        async&gt;
+&lt;/script&gt;</description>
+    </item>
+    
+    <item>
+      <title>A quasi-linear method for frictional model in helical layers of bent flexible risers</title>
+      <link>http://forgottensaga.github.io/publication/theoreriser1/</link>
+      <pubDate>Mon, 10 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>http://forgottensaga.github.io/publication/theoreriser1/</guid>
+      <description>&lt;script src=&#34;https://giscus.app/client.js&#34;
+        data-repo=&#34;ForgottenSaga/Giscus&#34;
+        data-repo-id=&#34;R_kgDOK6wiTQ&#34;
+        data-category=&#34;Announcements&#34;
+        data-category-id=&#34;DIC_kwDOK6wiTc4Cbz8u&#34;
+        data-mapping=&#34;pathname&#34;
+        data-strict=&#34;0&#34;
+        data-reactions-enabled=&#34;1&#34;
+        data-emit-metadata=&#34;0&#34;
+        data-input-position=&#34;bottom&#34;
+        data-theme=&#34;preferred_color_scheme&#34;
+        data-lang=&#34;zh-CN&#34;
+        crossorigin=&#34;anonymous&#34;
+        async&gt;
+&lt;/script&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

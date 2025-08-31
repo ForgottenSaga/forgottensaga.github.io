@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>计算机音乐 | 周洋-个人主页</title>
+    <link>http://forgottensaga.github.io/tag/%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%9F%B3%E4%B9%90/</link>
+      <atom:link href="http://forgottensaga.github.io/tag/%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%9F%B3%E4%B9%90/index.xml" rel="self" type="application/rss+xml" />
+    <description>计算机音乐</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Wed, 10 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://forgottensaga.github.io/media/icon_hubd28097366cd1a1d4d2bcae10b7ca823_21821_512x512_fill_lanczos_center_3.png</url>
+      <title>计算机音乐</title>
+      <link>http://forgottensaga.github.io/tag/%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%9F%B3%E4%B9%90/</link>
+    </image>
+    
+    <item>
+      <title>音乐与科技</title>
+      <link>http://forgottensaga.github.io/courses/musictech/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://forgottensaga.github.io/courses/musictech/</guid>
+      <description>&lt;h2 id=&#34;最新资讯&#34;&gt;最新资讯&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2025.08.24，《音乐技术原理》更名《音乐原理通论》后第四章完成信号与系统部分，以及增添第一章声强与声压级..耗费心力，篇幅远超预期；&lt;/li&gt;
+&lt;li&gt;因学期改制，本课程于2025-2026学年由10周40学时缩短至&lt;strong&gt;8周32学时&lt;/strong&gt;（其实更想扩充至16周64学时，每周上一次2节课，但因各种原因未执行成功，后面若有机会再视情况更改）；&lt;/li&gt;
+&lt;li&gt;2025.01.12，《音乐技术原理》补充完成电磁学附录章节，以及同步修改第一章场论部分..历时一个多月，回归第四章写作；&lt;/li&gt;
+&lt;li&gt;2025.01.04，担任&lt;a href=&#34;https://mp.weixin.qq.com/s/zoTSdChgjPeyX4GpWl7tfQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;上海大学第29届校园十大歌手大赛复赛评委&lt;/strong&gt;&lt;/a&gt;；&lt;/li&gt;
+&lt;li&gt;2024.11.29，感谢&lt;a href=&#34;https://mp.weixin.qq.com/s/sMD_WIYcFJs7SNR2Qe-3bw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;学校教务部微信公众号&lt;/strong&gt;&lt;/a&gt;对本课程进行介绍推广；&lt;/li&gt;
+&lt;li&gt;2024.11.20，因各种原因反复修订，《音乐技术原理》&lt;strong&gt;前三章修改完成&lt;/strong&gt;；2024.11.25，重启写书旅程，开启&lt;strong&gt;第四章新篇章&lt;/strong&gt;..&lt;/li&gt;
+&lt;li&gt;2024.09.30，获“青春遇见贵州”&lt;strong&gt;第二届全国青少年吉他弹唱邀请赛&lt;/strong&gt;优秀指导教师奖（预赛/决赛）；&lt;/li&gt;
+&lt;li&gt;本课程获批&lt;a href=&#34;https://jwb.shu.edu.cn/info/1015/311874.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;2024年度上海大学通识示范课程建设项目&lt;/strong&gt;&lt;/a&gt;！（上海大学仅&lt;strong&gt;10项&lt;/strong&gt;！）&lt;/li&gt;
+&lt;li&gt;2024.5.12，独立写作的《音乐技术原理》一书，已完成&lt;strong&gt;前三章基础理论&lt;/strong&gt;的初版撰写工作！断断续续，历时11个月！&lt;/li&gt;
+&lt;li&gt;2024.01.06，担任&lt;a href=&#34;https://mp.weixin.qq.com/s/nGPV8wt_V3s4VS3K4ZFbBg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;上海大学第28届校园十大歌手大赛复赛评委&lt;/strong&gt;&lt;/a&gt;；&lt;/li&gt;
+&lt;li&gt;2023年起，担任&lt;strong&gt;上海大学音乐协会专业指导教师&lt;/strong&gt;；&lt;/li&gt;
+&lt;li&gt;2023年6月开始撰写本课程&lt;strong&gt;配套参考讲义&lt;/strong&gt;！速度较慢，慢慢更新..&lt;/li&gt;
+&lt;li&gt;本课程获得&lt;a href=&#34;https://jwb.shu.edu.cn/info/1630/36574.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;2021-2022学年春季学期上海大学研究型挑战性课程&lt;/strong&gt;&lt;/a&gt;认定！&lt;/li&gt;
+&lt;li&gt;作为本科生通识课，每学期选课人数均达到&lt;strong&gt;课容量上限&lt;/strong&gt;（70/70）！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;参考书籍&#34;&gt;参考书籍&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;音乐原理通论，自编讲义，更新中（点击上方&lt;strong&gt;自编讲义&lt;/strong&gt;查看。本讲义是课堂授课内容的补充材料，非通识读物，具有较深的专业性）；&lt;/li&gt;
+&lt;li&gt;计算机音乐教程（上下），[美]柯蒂斯·罗玆等，人民音乐出版社，2011年（已绝版，
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 
+
+&lt;a href=&#34;http://forgottensaga.github.io/uploads/Computermusic1.pdf&#34; target=&#34;_blank&#34;&gt;上册电子书下载&lt;/a&gt;
+）.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;课程简介&#34;&gt;课程简介&lt;/h2&gt;
+&lt;p&gt;本课程从艺术与理工科角度同时出发，涵盖音乐技术领域的大部分内容，做到从全方位角度“解剖”音乐。通过本课程的学习，除了可以从艺术的角度理解音乐，培养艺术审美与情操，更重要的是从理工科的角度出发，思考音乐背后的原理，甚至“创造”音乐，做到“知其然而所以然”，培养创造性思维，引导学生主动成为课堂知识的建构者。&lt;/p&gt;
+&lt;h2 id=&#34;课程目标&#34;&gt;课程目标&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;从艺术的角度理解音乐，培养艺术审美与情操，激发学生对美的认知，树立更全面的艺术审美价值观；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;从数学与物理建模的角度思考音乐背后的原理，从根源上了解音乐为何会“好听”，和弦为何会“和谐”，做到对音乐“知其然而所以然”；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;学会利用合成技术及信号处理等手段创造出独一无二的声音，发掘学生自己在认知、情感上的特征并通过声音来表达，以及如何在现代音乐中进行融合；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;培养学生文理兼并、全人思维的能力，利用声音的无穷可能性探索每个学生属于自己的独特性，培养创造性思维，激发学生对现代音乐技术的学习兴趣。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;教学大纲&#34;&gt;教学大纲&lt;/h2&gt;
+&lt;h3 id=&#34;教学专题一现代音乐与音乐技术的发展2学时&#34;&gt;教学专题（一）：现代音乐与音乐技术的发展（2学时）&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;音乐存在的意义：介绍九大艺术，通过音乐认知的“两极分化”，引出从“纯技术”的角度切入，分析何为“好音乐”；&lt;/li&gt;
+&lt;li&gt;音乐与科技的关系：分别介绍和声理论、音色设计，以及混音编曲与数学、物理和技术之间的关系；&lt;/li&gt;
+&lt;li&gt;课程安排与注意事项：介绍本课程学时分配，如何给分，以及参考教程与所使用的软硬件。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;教学重点&lt;/strong&gt;：现代音乐介绍、音乐与技术的关系、基础概念；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;教学难点&lt;/strong&gt;：和声理论、音色设计，以及混音编曲的介绍。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;教学专题二为何音乐会好听探寻音色与和声学的原理上2学时&#34;&gt;教学专题（二）：为何音乐会好听？探寻音色与和声学的原理（上）（2学时）&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;声音的产生及其数学原理：介绍声音如何产生，波动方程和傅里叶变换可视化展示，以及与音乐之间的关系；&lt;/li&gt;
+&lt;li&gt;十二平均律：介绍现代音乐的基石，十二平均律的原理，泛音列的概念，以及如何解决转调的问题；&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;教学重点&lt;/strong&gt;：音乐声学原理、十二平均律的核心；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;教学难点&lt;/strong&gt;：波动方程、傅里叶变换，以及音乐声学的理解、泛音列在音乐中的作用。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;教学专题三为何音乐会好听探寻音色与和声学的原理下2学时&#34;&gt;教学专题（三）：为何音乐会好听？探寻音色与和声学的原理（下）（2学时）&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;基础调式：介绍音阶调式的排列规则，展示各种不同调式的色彩，以及在实际音乐当中的应用；&lt;/li&gt;
+&lt;li&gt;和声的度：介绍衡量音程距离的通用度量方式，以及各种和弦的命名方式，以及在实际音乐中如何使用；&lt;/li&gt;
+&lt;li&gt;漫谈和声：介绍基本的和声进行，展示各种和声连接的不同色彩。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;教学重点&lt;/strong&gt;：和声学基本原理、和声的命名规则；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;教学难点&lt;/strong&gt;：和声学基础概念，以及在实际音乐中的应用。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;教学专题四计算机是如何发出声音及创造音乐的2学时&#34;&gt;教学专题（四）：计算机是如何发出声音及创造音乐的？（2学时）&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;声音的录制与回放：介绍声音录制的前世今生，从留声机到磁带到CD，最后到计算机音乐；&lt;/li&gt;
+&lt;li&gt;数字音频技术：数字音频的数模转换、采样定理、MIDI协议；&lt;/li&gt;
+&lt;li&gt;如何通过计算机创造音乐：介绍四种通过计算机创造音乐的方式：底层代码编写、带SDK的代码编写、可视化编程，以及基于用户界面的开发方式。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;教学重点&lt;/strong&gt;：计算机音乐的基石：数字音频技术概述；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;教学难点&lt;/strong&gt;：数字音频技术的核心概念和知识点。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;教学专题五把真实乐器放进电脑里软音源的崛起2学时&#34;&gt;教学专题（五）：把真实乐器放进电脑里！软音源的崛起（2学时）&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;采样器与软音乐：介绍乐器的采样，各类乐器的演奏法；&lt;/li&gt;
+&lt;li&gt;经典软音源介绍：介绍市面上流行的经典软音源，以及在实际音乐当中的应用；&lt;/li&gt;
+&lt;li&gt;软音源示范及简单制作：实际展示软音源在编曲当中的操作。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;教学重点&lt;/strong&gt;：乐器采样原理、如何建立软音源库；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;教学难点&lt;/strong&gt;：软音源在实际编曲当中的应用。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;教学专题六创造自然界没有的声音电子音乐的风靡2学时&#34;&gt;教学专题（六）：创造自然界没有的声音！电子音乐的风靡（2学时）&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;电子音乐简介：电子音乐的历史、传统音乐与电子音乐的联系与区别；&lt;/li&gt;
+&lt;li&gt;声音合成技术：介绍振荡器、滤波器、放大器的概念，以及如何使用调制器和全局控制；&lt;/li&gt;
+&lt;li&gt;软件合成器介绍：介绍经典的软件合成器和它们的特点。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;教学重点&lt;/strong&gt;：声音合成技术的介绍；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;教学难点&lt;/strong&gt;：声音合成技术的步骤和实际运用。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;教学专题七用合成器调制出自己喜爱的音色吧2学时&#34;&gt;教学专题（七）：用合成器调制出自己喜爱的音色吧！（2学时）&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;课堂介绍网页端、平板端，以及电脑端的软件合成器实际使用，教会学生如何通过软件合成器制作出独一无二的音色。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;教学重点&lt;/strong&gt;：软件合成器如何使用；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;教学难点&lt;/strong&gt;：声音设计的详细过程。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;教学专题八用简单的加减乘除模拟出虚拟乐器2学时&#34;&gt;教学专题（八）：用简单的加减乘除模拟出虚拟乐器！（2学时）&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;声音物理建模：介绍可以动态展示音乐声学的物理建模方法；&lt;/li&gt;
+&lt;li&gt;物理建模虚拟乐器：介绍物理建模乐器的著名产品，以及在实际音乐当中的应用；&lt;/li&gt;
+&lt;li&gt;用算法实现对乐器的模拟：介绍比较简单的K-S算法，实现对拨弦类乐器的物理建模模拟。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;教学重点&lt;/strong&gt;：简单的物理建模运算构建虚拟乐器；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;教学难点&lt;/strong&gt;：K-S算法的实现过程。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;教学专题九音乐技术的未来我们下一步做什么2学时&#34;&gt;教学专题（九）：音乐技术的未来，我们下一步做什么（2学时）&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;走进爵士乐：介绍爵士乐的基础，以及推荐爵士乐曲目；&lt;/li&gt;
+&lt;li&gt;音频效果器：介绍音频效果器的概念，以及各种不同的音频效果器；&lt;/li&gt;
+&lt;li&gt;人工智能音乐：介绍如何通过人工智能制作音乐。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;教学重点&lt;/strong&gt;：爵士乐、音频效果器、人工智能音乐的概念；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;教学难点&lt;/strong&gt;：以上相关内容的核心知识。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;研讨专题主题研讨大家眼中的音乐世界2学时&#34;&gt;研讨专题：主题研讨—大家眼中的音乐世界（2学时）&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;学习要求&lt;/strong&gt;：将课外学习成果在课堂演示，计入期末成绩。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;课外作业问题项目&#34;&gt;课外作业/问题/项目&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;说明：选课学生在教学专题（二）到教学专题（九）中选择一个专题进行专题研究，最终形成课外自学实践的研究报告，并汇报答辩，计入期末成绩。&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;课外学习要求&lt;/strong&gt;：针对相应的主题完成调研，并能通过课外自学等形式，重点对所选择的主题进行深入研究，最终独立完成一份专题研究报告；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;课外学习内容&lt;/strong&gt;：选择相应的专题开展调研，期中完成一次针对合成器音色调制的调研报告，期末完成相应专题研究报告，计入课程考核成绩；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;组织形式&lt;/strong&gt;：学生独立开展研究，每若干学生设置一名导师或联络人。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;时间安排：调研报告第六周结束前完成；研究报告期末完成（考虑到通识课性质，目前两份报告已合并为提交一份报告）。&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;教师简介&#34;&gt;教师简介&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;除本职工作以外，授课教师从小学习古典音乐，擅长多门乐器包括长笛、钢琴、指弹吉他等。从大学起开始在琴行兼职，任校管乐队核心人员，同时自己组建有乐队；研究生时代起研习编曲、混音、计算机音乐以及合成器技术等。正是由于同时具备扎实的理工科和音乐的背景，以及多学科交叉的研究经历，能够保证在一定艺术审美的前提下，深入浅出讲解音乐背后的数学原理、电子音乐物理建模的内在机理，以及如何通过创造声音服务于新的音乐作品中。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;script src=&#34;https://giscus.app/client.js&#34;
+        data-repo=&#34;ForgottenSaga/Giscus&#34;
+        data-repo-id=&#34;R_kgDOK6wiTQ&#34;
+        data-category=&#34;Announcements&#34;
+        data-category-id=&#34;DIC_kwDOK6wiTc4Cbz8u&#34;
+        data-mapping=&#34;pathname&#34;
+        data-strict=&#34;0&#34;
+        data-reactions-enabled=&#34;1&#34;
+        data-emit-metadata=&#34;0&#34;
+        data-input-position=&#34;bottom&#34;
+        data-theme=&#34;preferred_color_scheme&#34;
+        data-lang=&#34;en&#34;
+        crossorigin=&#34;anonymous&#34;
+        async&gt;
+&lt;/script&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

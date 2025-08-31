@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>偏微分方程图像处理 | 周洋-个人主页</title>
+    <link>http://forgottensaga.github.io/tag/%E5%81%8F%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/</link>
+      <atom:link href="http://forgottensaga.github.io/tag/%E5%81%8F%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    <description>偏微分方程图像处理</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Wed, 10 Jan 2024 01:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://forgottensaga.github.io/media/icon_hubd28097366cd1a1d4d2bcae10b7ca823_21821_512x512_fill_lanczos_center_3.png</url>
+      <title>偏微分方程图像处理</title>
+      <link>http://forgottensaga.github.io/tag/%E5%81%8F%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/</link>
+    </image>
+    
+    <item>
+      <title>数字图像处理</title>
+      <link>http://forgottensaga.github.io/courses/digimag/</link>
+      <pubDate>Wed, 10 Jan 2024 01:00:00 +0000</pubDate>
+      <guid>http://forgottensaga.github.io/courses/digimag/</guid>
+      <description>&lt;h2 id=&#34;最新资讯&#34;&gt;最新资讯&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;本课程预计2024-2025年春季学期开课！（上海大学未来技术学院-人工智能专业）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;参考书籍&#34;&gt;参考书籍&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://item.jd.com/12866654.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数字图像处理（第四版）&lt;/a&gt;，冈萨雷斯等，电子工业出版社，2020；&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://item.jd.com/14098452.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数字图像处理：基于OpenCV-Python&lt;/a&gt;，黄杉，电子工业出版社，2023.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;课程简介&#34;&gt;课程简介&lt;/h2&gt;
+&lt;p&gt;以数字图像处理基础理论为主线，覆盖本领域大部分基础算法模型的讲解与程序语言实现。通过本课程的学习，能够提高学生的计算与逻辑思维能力，锻炼解决实际工程问题的能力，深入理解数字图像处理领域的基础理论、研究方法，以及实现手段。&lt;/p&gt;
+&lt;h2 id=&#34;课程目标&#34;&gt;课程目标&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;深入理解数字图像处理领域的历史变革，认识到其与人类生活的息息相关，能够塑造正确的技术运用价值观，引导学生形成正向的学术研究理念，利用数字图像处理技术解决实际需求的科学问题；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;理解并掌握数字图像处理的基本概念和基础理论，具备扎实的数字图像处理领域的数学基础，能够从理论层面深入认识数字图像处理方法的本质与内涵；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;熟练运用OpenCV-Python等编程语言与算法库，能够通过程序语言的方式实现数字图像处理领域的经典算法，对一些常用的图像处理技术做到底层开发、效果复现；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;提高学生的计算与逻辑思维能力，锻炼解决实际工程问题的能力，培养创造性思维，激发学生对探索未知数字图像处理领域的学习兴趣。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;教学大纲&#34;&gt;教学大纲&lt;/h2&gt;
+&lt;h3 id=&#34;第一讲数字图像处理概论3学时&#34;&gt;第一讲：数字图像处理概论（3学时）&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;介绍数字图像处理诞生的由来，发展历程，以及当前的发展现状；&lt;/li&gt;
+&lt;li&gt;介绍数字图像处理的应用，包括Photoshop、AI图像生成、风格迁移等；&lt;/li&gt;
+&lt;li&gt;上机实际利用Python语言对数字图像进行基本操作，包括读取、简单处理、保存，以及传输等。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;教学重点&lt;/strong&gt;：数字图像处理的发展历史与实际应用；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;教学难点&lt;/strong&gt;：理解当前数字图像处理的发展程度以及未来的趋势。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;第二讲数字图像基础3学时&#34;&gt;第二讲：数字图像基础（3学时）&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;介绍数字图像的属性与数据类型；&lt;/li&gt;
+&lt;li&gt;数字图像的创建、复制、裁剪、拼接，以及多通道的拆分与合并；&lt;/li&gt;
+&lt;li&gt;数字图像的算术运算，包括加减乘除、积分运算、归一化处理等；&lt;/li&gt;
+&lt;li&gt;上机实际操作，利用numpy、Matplotlib等库对数字图像进行基本处理。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;教学重点&lt;/strong&gt;：数字图像处理的基础知识；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;教学难点&lt;/strong&gt;：数字图像处理的理解与基本操作。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;第三讲几何变换与灰度变换3学时&#34;&gt;第三讲：几何变换与灰度变换（3学时）&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;介绍数字图像的平移、缩放、旋转、翻转、斜切，以及投影变换和重映射；&lt;/li&gt;
+&lt;li&gt;介绍数字图像的反转变换、灰度变换、对数/幂率变换，调整色阶等；&lt;/li&gt;
+&lt;li&gt;数字图像的直方图与阈值处理；&lt;/li&gt;
+&lt;li&gt;上机实际操作，利用OpenCV进行几何变换与灰度变换相关的算法实现。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;教学重点&lt;/strong&gt;：数字图像处理的几何变换与灰度变换核心知识；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;教学难点&lt;/strong&gt;：理解几何变换与灰度变换的基础理论。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;第四讲彩色图像处理3学时&#34;&gt;第四讲：彩色图像处理（3学时）&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;介绍彩色模型，包括RGB、CMY、CMYK、HIS等彩色模型；&lt;/li&gt;
+&lt;li&gt;介绍数字图像处理的颜色空间转换；&lt;/li&gt;
+&lt;li&gt;灰度图像的伪彩色处理、图像的色彩风格滤镜、调节图像的色彩平衡等；&lt;/li&gt;
+&lt;li&gt;上机实际对彩色数字图像进行基本操作，包括颜色空间转换、色彩平衡等。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;教学重点&lt;/strong&gt;：数字图像的彩色处理；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;教学难点&lt;/strong&gt;：理解彩色图像处理的基础理论。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;第五讲图像卷积与空间滤波3学时&#34;&gt;第五讲：图像卷积与空间滤波（3学时）&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;介绍卷积的基础理论，以及数字图像处理的卷积运算；&lt;/li&gt;
+&lt;li&gt;介绍空间滤波中的各种滤波器，如盒子滤波、高斯滤波等；&lt;/li&gt;
+&lt;li&gt;介绍空间滤波中的Laplacian算子、Sobel算子等；&lt;/li&gt;
+&lt;li&gt;上机实际对数字图像卷积核空间滤波操作，查看对图像的改变效果等。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;教学重点&lt;/strong&gt;：图像卷积与空间滤波的核心知识点；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;教学难点&lt;/strong&gt;：图像卷积与空间滤波的基础理论。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;第六讲傅里叶变换与频域滤波3学时&#34;&gt;第六讲：傅里叶变换与频域滤波（3学时）&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;介绍傅里叶变换和快速傅里叶变换的基本数学理论；&lt;/li&gt;
+&lt;li&gt;介绍频域滤波的基本步骤，低通/高通/带阻/带通滤波器，；&lt;/li&gt;
+&lt;li&gt;上机实际对数字图像的频域滤波进行操作，分别用OpenCV和Numpy实现傅里叶变换。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;教学重点&lt;/strong&gt;：傅里叶变换与频域滤波；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;教学难点&lt;/strong&gt;：理解傅里叶变换的数学理论。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;第七讲形态学图像处理3学时&#34;&gt;第七讲：形态学图像处理（3学时）&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;介绍腐蚀运算和膨胀运算，包括腐蚀和膨胀，形态学处理的结构元；&lt;/li&gt;
+&lt;li&gt;介绍形态学相关的运算函数，包括边界提取、直线提取、线条细化、边界清除、孔洞填充、骨架提取，以及边缘检测和角点检测；&lt;/li&gt;
+&lt;li&gt;上机实际对上述形态学图像处理方法进行编程实现。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;教学重点&lt;/strong&gt;：数字图像处理的发展历史与实际应用；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;教学难点&lt;/strong&gt;：理解当前数字图像处理的发展程度以及未来的趋势。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;第八讲偏微分方程图像处理上3学时&#34;&gt;第八讲：偏微分方程图像处理（上）（3学时）&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;介绍介绍偏微分方程图像处理的相关基础，包括病态问题、欧拉-拉格朗日方程，以及扩散（热传导）方程；&lt;/li&gt;
+&lt;li&gt;微分几何基础知识讲解，包括参数曲线分析、参数曲面分析、介绍参数曲面的法曲率、主曲率、高斯曲率与平均曲率；&lt;/li&gt;
+&lt;li&gt;上机实际对上述理论进行编程实现，查看各类曲率对图像处理的影响。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;教学重点&lt;/strong&gt;：偏微分方程图像处理的基础理论；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;教学难点&lt;/strong&gt;：理解微分几何的数学理论。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;第九讲偏微分方程图像处理下3学时&#34;&gt;第九讲：偏微分方程图像处理（下）（3学时）&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;介绍经典的偏微分方程图像处理算法，包括P-M方程、ROF模型，以及CDD模型等；&lt;/li&gt;
+&lt;li&gt;简要介绍曲率滤波的实现步骤与流程；&lt;/li&gt;
+&lt;li&gt;上机实际对P-M方程、ROF模型，以及CDD模型进行实现，完成图像去噪、图像修复等基础任务。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;教学重点&lt;/strong&gt;：经典的偏微分方程图像处理算法；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;教学难点&lt;/strong&gt;：对经典的偏微分方程图像处理算法进行编程实现。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;第十讲数字图像处理综合应用3学时&#34;&gt;第十讲：数字图像处理综合应用（3学时）&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;以生成扩散模型为例，讲解其发展的历程，以及各种变种：GLIDE,DALLE2,Imagen,和一系列Image Editing方法等；&lt;/li&gt;
+&lt;li&gt;介绍生成扩散模型的基本实现方法，大体流程；&lt;/li&gt;
+&lt;li&gt;上机实际对生成扩散模型的实现效果进行讲解。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;教学重点&lt;/strong&gt;：数字图像处理综合应用的案例教学；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;教学难点&lt;/strong&gt;：理解生成扩散模型的基础理论。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;课外作业问题项目&#34;&gt;课外作业/问题/项目&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;说明：选课学生在第三讲到第十讲中选择一个专题进行专题研究，最终形成课外自学实践的研究报告，并撰写编程实现文档，计入期末成绩。&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;课外学习要求&lt;/strong&gt;：针对相应的主题完成调研，并能通过课外自学等形式，重点对所选择的主题进行深入研究，最终独立完成一份专题研究报告；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;课外学习内容&lt;/strong&gt;：选择相应的专题开展调研，期中完成一次针对特定数字图像处理任务的调研报告，期末完成相应专题的编程实现研究报告，计入课程考核成绩；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;组织形式&lt;/strong&gt;：学生独立开展研究，每若干学生设置一名导师或联络人。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;时间安排：调研报告与研究报告期末完成。&lt;/strong&gt;&lt;/p&gt;
+&lt;script src=&#34;https://giscus.app/client.js&#34;
+        data-repo=&#34;ForgottenSaga/Giscus&#34;
+        data-repo-id=&#34;R_kgDOK6wiTQ&#34;
+        data-category=&#34;Announcements&#34;
+        data-category-id=&#34;DIC_kwDOK6wiTc4Cbz8u&#34;
+        data-mapping=&#34;pathname&#34;
+        data-strict=&#34;0&#34;
+        data-reactions-enabled=&#34;1&#34;
+        data-emit-metadata=&#34;0&#34;
+        data-input-position=&#34;bottom&#34;
+        data-theme=&#34;preferred_color_scheme&#34;
+        data-lang=&#34;en&#34;
+        crossorigin=&#34;anonymous&#34;
+        async&gt;
+&lt;/script&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

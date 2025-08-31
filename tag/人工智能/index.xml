@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>人工智能 | 周洋-个人主页</title>
+    <link>http://forgottensaga.github.io/tag/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</link>
+      <atom:link href="http://forgottensaga.github.io/tag/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/index.xml" rel="self" type="application/rss+xml" />
+    <description>人工智能</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Wed, 10 Jan 2024 02:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://forgottensaga.github.io/media/icon_hubd28097366cd1a1d4d2bcae10b7ca823_21821_512x512_fill_lanczos_center_3.png</url>
+      <title>人工智能</title>
+      <link>http://forgottensaga.github.io/tag/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</link>
+    </image>
+    
+    <item>
+      <title>深度学习实践（英文）</title>
+      <link>http://forgottensaga.github.io/courses/deeplearn/</link>
+      <pubDate>Wed, 10 Jan 2024 02:00:00 +0000</pubDate>
+      <guid>http://forgottensaga.github.io/courses/deeplearn/</guid>
+      <description>&lt;h2 id=&#34;最新资讯&#34;&gt;最新资讯&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;除&lt;strong&gt;机械工程&lt;/strong&gt;专业研究生外，也欢迎&lt;strong&gt;控制工程&lt;/strong&gt;、&lt;strong&gt;人工智能&lt;/strong&gt;、&lt;strong&gt;电子信息&lt;/strong&gt;等专业学生跨学科选课！&lt;/li&gt;
+&lt;li&gt;因学期改制，本课程于2025-2026学年由10周40学时调整为&lt;strong&gt;8周32学时&lt;/strong&gt;，并由双语转为&lt;strong&gt;英文&lt;/strong&gt;授课（课件全英文，讲授全英文并辅以中文解释）；&lt;/li&gt;
+&lt;li&gt;本课程于2024-2025学年由专业选修课转为&lt;strong&gt;素养课：人工智能类&lt;/strong&gt;（必修不低于2学分）；&lt;/li&gt;
+&lt;li&gt;本课程获得&lt;strong&gt;2024年上海大学一流研究生教育培养质量提升项目：核心课程&lt;/strong&gt;资助（上海大学&lt;strong&gt;19项&lt;/strong&gt;）&lt;/li&gt;
+&lt;li&gt;以本课程核心内容申报获批&lt;a href=&#34;https://www.jfdaily.com/sgh/detail?id=1226344&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;2023年上海市研究生教育改革项目&lt;/strong&gt;&lt;/a&gt;（上海大学&lt;strong&gt;12项&lt;/strong&gt;）！&lt;/li&gt;
+&lt;li&gt;本课程获得&lt;a href=&#34;https://jwb.shu.edu.cn/info/1015/36181.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;2022年上海大学课程思政项目&lt;/strong&gt;&lt;/a&gt;资助！&lt;/li&gt;
+&lt;li&gt;作为研究生专业选修课，每学期选课人数达到&lt;strong&gt;50+&lt;/strong&gt;！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;参考书籍&#34;&gt;参考书籍&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://item.jd.com/13628339.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;动手学深度学习 PyTorch版&lt;/a&gt;，阿斯顿·张等，人民邮电出版社，2023.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;课程简介&#34;&gt;课程简介&lt;/h2&gt;
+&lt;p&gt;本课程面向机械相关工科专业的研究生，主要从基础理论与实践应用两个角度同时出发，涵盖深度学习领域的大部分内容，包括理解深度学习的应用背景，探寻其背后的数学原理：矩阵求导、了解优化问题的基石：线性回归并从几何角度对其进行解释、学习多层感知机与神经网络的基础知识；同时会讲解如何通过卷积神经网络和循环神经网络来构建计算机视觉与自然语言处理领域的项目研究，以及通过深度学习进行艺术生成的基本思路与开发。&lt;/p&gt;
+&lt;h2 id=&#34;课程目标&#34;&gt;课程目标&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;深入理解深度学习领域的历史变革，认识到其与人类生活的息息相关，能够塑造正确的技术运用价值观，引导学生形成正向的学术研究理念，利用深度学习技术解决实际需求的科学问题；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;理解并掌握深度学习的基本概念和基础理论，具备扎实的深度学习领域的数学基础，能够从理论层面深入认识深度学习方法的本质与内涵；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;熟练运用Python/PyTorch等编程语言与算法库，能够通过程序语言的方式实现深度学习领域的经典算法，对一些常用的深度学习技术做到底层开发、效果复现；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;提高学生的计算与逻辑思维能力，锻炼解决实际工程问题的能力，培养创造性思维，激发学生对探索深度学习前沿领域的学习兴趣。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;教学大纲&#34;&gt;教学大纲&lt;/h2&gt;
+&lt;h3 id=&#34;第一讲绪论及课程介绍4学时&#34;&gt;第一讲：绪论及课程介绍（4学时）&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;介绍本课程的基本情况，强调数学知识在课程中的重要性；&lt;/li&gt;
+&lt;li&gt;分别通过微积分中的泰勒（Taylor）展开和换元重积分，推导出在深度学习课程中最重要的基础知识：雅可比（Jacobi）矩阵。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;教学重点&lt;/strong&gt;：通过微积分中的基础知识推导出雅可比矩阵的数学内涵；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;教学难点&lt;/strong&gt;：理解泰勒展开和换元重积分中的雅可比矩阵应用。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;第二讲深度学习简介4学时&#34;&gt;第二讲：深度学习简介（4学时）&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;介绍深度学习技术诞生的由来，发展历程，以及当前的发展现状；&lt;/li&gt;
+&lt;li&gt;介绍深度学习技术的应用，包括图像处理、自然语言处理等；&lt;/li&gt;
+&lt;li&gt;介绍课程所使用的编程语言Python、算法框架PyTorch，以及编辑器Jupyter等，对基础的Python语言中常用的类和对象进行简要讲解。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;教学重点&lt;/strong&gt;：对编程语言、算法框架，以及编辑器的环境搭建介绍；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;教学难点&lt;/strong&gt;：程序语言中类和对象的深度理解以及实践应用。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;第三讲矩阵求导14学时&#34;&gt;第三讲：矩阵求导1（4学时）&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;通过实际深度学习案例引出反向传播算法，再通过反向传播算法引出矩阵求导；&lt;/li&gt;
+&lt;li&gt;对基本的矩阵求导形式做简要介绍，通过展开矩阵元素的方式推导出计算结果；&lt;/li&gt;
+&lt;li&gt;引出可不展开矩阵直接进行微分运算的“矩阵求导术”，介绍标量函数对矩阵的导数求法，并通过实际例子进行强化记忆。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;教学重点&lt;/strong&gt;：反向传播算法与矩阵求导的基础知识；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;教学难点&lt;/strong&gt;：通过“矩阵求导术”进行标量函数对矩阵的导数运算。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;第四讲矩阵求导24学时&#34;&gt;第四讲：矩阵求导2（4学时）&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;复习标量函数对矩阵的导数求法，并再次举例说明；&lt;/li&gt;
+&lt;li&gt;进一步介绍向量函数对向量的导数求法，并通过实际运算说明；&lt;/li&gt;
+&lt;li&gt;最后简要介绍矩阵函数对矩阵的导数求法，引出矩阵向量化的概念，并通过实际运算说明。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;教学重点&lt;/strong&gt;：向量函数对向量的导数，以及矩阵函数对矩阵的导数求法；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;教学难点&lt;/strong&gt;：理解矩阵求导术的深层数学理论，能够自行构造矩阵求导的统一表达式。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;第五讲矩阵求导34学时&#34;&gt;第五讲：矩阵求导3（4学时）&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;回顾前述矩阵导数术的理论知识，包括三类矩阵求导的情形；&lt;/li&gt;
+&lt;li&gt;通过举例说明，介绍矩阵求导的链式求导法则，再通过一般化理论证明矩阵求导的链式求导法则；&lt;/li&gt;
+&lt;li&gt;完整介绍深度学习理论中的反向传播算法流程，并通过程序语言和算法框架在代码中实现对矩阵求导的运算，验证结果的相同性。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;教学重点&lt;/strong&gt;：两类不同情形下的矩阵求导的链式求导法则；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;教学难点&lt;/strong&gt;：理解矩阵求导的链式求导法则原理和方法。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;第六讲线性回归问题4学时&#34;&gt;第六讲：线性回归问题（4学时）&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;通过实际的优化问题引出线性回归问题，以及其与深度学习的关联；&lt;/li&gt;
+&lt;li&gt;介绍线性回归的几种常规解法，包括矩阵展开法、矩阵求导法、通过链式求导进行矩阵求导法等；&lt;/li&gt;
+&lt;li&gt;介绍最第四种抽象解法：投影法；&lt;/li&gt;
+&lt;li&gt;通过程序语言完整实现一个线性回归问题的解法，并对实验结果进行分析。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;教学重点&lt;/strong&gt;：线性回归的四种理论解法，以及通过程序语言实现；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;教学难点&lt;/strong&gt;：理解线性回归的几种解法，特别是投影法的几何认知。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;第七讲矩阵求导课堂测验4学时&#34;&gt;第七讲：矩阵求导课堂测验（4学时）&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;布置几道随机的矩阵求导题，并于课堂上进行现场测验。学生进行手写完成。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;教学重点&lt;/strong&gt;：学生对矩阵求导题的完成；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;教学难点&lt;/strong&gt;：理解并能自行推导出所出矩阵求导题的解法。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;第八讲多层感知机与神经网络4学时&#34;&gt;第八讲：多层感知机与神经网络（4学时）&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;介绍多层感知机和神经网络的基础知识，包括回归和分类问题等；&lt;/li&gt;
+&lt;li&gt;介绍深度学习中的欠拟合和过拟合问题，以及几种解决上述问题的理论方法；&lt;/li&gt;
+&lt;li&gt;介绍深度学习中的梯度消失和梯度爆炸问题，以及几种解决上述问题的理论方法。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;教学重点&lt;/strong&gt;：深度学习的模型选择和数值稳定性问题；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;教学难点&lt;/strong&gt;：欠拟合与过拟合、梯度消失与梯度爆炸的深入理解。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;第九讲卷积神经网络4学时&#34;&gt;第九讲：卷积神经网络（4学时）&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;介绍计算机视觉的应用，引出数字图像处理的基础知识；&lt;/li&gt;
+&lt;li&gt;介绍卷积神经网络的基本结构，以及相关的基础理论；&lt;/li&gt;
+&lt;li&gt;以艺术图像生成为例，讲解如何同时学习图像的内容特征与风格特征。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;教学重点&lt;/strong&gt;：卷积神经网络的基本结构与基础理论；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;教学难点&lt;/strong&gt;：理解艺术图像生成中风格特征学习的数学基础。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;第十讲循环神经网络4学时&#34;&gt;第十讲：循环神经网络（4学时）&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;介绍自然语言处理的应用，引出隐马尔科夫模型的基础知识；&lt;/li&gt;
+&lt;li&gt;介绍循环神经网络的基本结构，以及相关的基础理论；&lt;/li&gt;
+&lt;li&gt;分别以歌词生成和编曲生成为例，讲解如何学习具有序列性质的文本及声音特征。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;教学重点&lt;/strong&gt;：循环神经网络的基本结构与基础理论；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;教学难点&lt;/strong&gt;：理解歌词生成和编曲生成中序列数据学习的基础理论。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;课外作业问题项目&#34;&gt;课外作业/问题/项目&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;说明：选课学生将根据实际的Kaggle竞赛进行专题研究，最终形成课外自学实践的研究报告，并撰写编程实现文档，附加自己的全球打榜成绩，作为期末报告计入期末成绩。&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;课堂测验要求&lt;/strong&gt;：针对随机的矩阵求导题完成求解和计算任务，可开卷进行资料查阅，但必须独立完成，下课前提交作为平时成绩的佐证材料；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;课外学习要求&lt;/strong&gt;：选择Kaggle竞赛相应的专题开展调研，完成一次针对特定竞赛任务的调研报告，期末完成相应专题的编程实现研究报告，计入课程考核成绩；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;组织形式&lt;/strong&gt;：学生独立开展研究，每若干学生设置一名导师或联络人。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;时间安排：课堂测验第七周课上完成，研究报告期末完成。&lt;/strong&gt;&lt;/p&gt;
+&lt;script src=&#34;https://giscus.app/client.js&#34;
+        data-repo=&#34;ForgottenSaga/Giscus&#34;
+        data-repo-id=&#34;R_kgDOK6wiTQ&#34;
+        data-category=&#34;Announcements&#34;
+        data-category-id=&#34;DIC_kwDOK6wiTc4Cbz8u&#34;
+        data-mapping=&#34;pathname&#34;
+        data-strict=&#34;0&#34;
+        data-reactions-enabled=&#34;1&#34;
+        data-emit-metadata=&#34;0&#34;
+        data-input-position=&#34;bottom&#34;
+        data-theme=&#34;preferred_color_scheme&#34;
+        data-lang=&#34;en&#34;
+        crossorigin=&#34;anonymous&#34;
+        async&gt;
+&lt;/script&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
